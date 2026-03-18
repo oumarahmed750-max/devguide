@@ -1,4 +1,5 @@
-.. _buildbots:
+.. _buildbots:settings < strenuous_testi(العمل مع رابوتات
+)
 
 ======================
 Working with buildbots
