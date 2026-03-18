@@ -1,5 +1,7 @@
-.. _buildbots:
+.. _buildbots:testing/buildbots.rst raf
 
+(raf
+)
 ======================
 Working with buildbots
 ======================
